@@ -1,3 +1,5 @@
 #![deny(clippy::all)]
 
-fn main() {}
+fn main() {
+    println!("hi")
+}
